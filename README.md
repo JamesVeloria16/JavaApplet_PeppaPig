@@ -1,4 +1,5 @@
 # JavaApplet_PeppaPig
 2nd year finals project/lab exam
 
-![Applet Output](C:\Users\jmvel\Documents\2nd year\DCIT 50A)
+![PeppaPig-Output](https://user-images.githubusercontent.com/110950262/213902825-460878b9-8e3c-4a74-b67a-6470f94dd413.png)
+
